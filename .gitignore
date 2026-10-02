@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+/build/
+/dist/
+.pytest_cache/
+.venv/
+
+# Solver cache and generated diagrams (rebuild with build-library / render-all)
+/.nandcache/
+/diagrams/
+
+# PyCharm: keep only its own ignore file
+/.idea/*
+!/.idea/.gitignore

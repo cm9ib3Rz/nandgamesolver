@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nandsolver"
+version = "0.1.0"
+description = "Minimum-NAND circuit solver for nandgame.com levels"
+requires-python = ">=3.10"
+dependencies = ["python-sat>=1.8.dev0"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+nandsolver = "nandsolver.cli:main"
+
+[tool.setuptools]
+packages = ["nandsolver"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
