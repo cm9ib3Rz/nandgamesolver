@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="251" viewBox="0 0 564 251" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M62.0,159.9H92.0" stroke="#d1242f"/>
+<path d="M92.0,111.4V204.6" stroke="#d1242f"/>
+<path d="M92.0,180.6H136.0" stroke="#d1242f"/>
+<path d="M92.0,204.6H136.0" stroke="#d1242f"/>
+<path d="M92.0,111.4H136.0" stroke="#d1242f"/>
+<path d="M92.0,145.4H136.0" stroke="#d1242f"/>
+<circle cx="92.0" cy="145.4" r="3.2" fill="#d1242f" stroke="none"/>
+<circle cx="92.0" cy="159.9" r="3.2" fill="#d1242f" stroke="none"/>
+<circle cx="92.0" cy="180.6" r="3.2" fill="#d1242f" stroke="none"/>
+<path d="M62.0,70.4H106.0" stroke="#1f6feb"/>
+<path d="M106.0,53.4V87.4" stroke="#1f6feb"/>
+<path d="M106.0,87.4H136.0" stroke="#1f6feb"/>
+<path d="M106.0,53.4H136.0" stroke="#1f6feb"/>
+<circle cx="106.0" cy="70.4" r="3.2" fill="#1f6feb" stroke="none"/>
+<path d="M184.0,99.4H214.0" stroke="#8250df"/>
+<path d="M214.0,70.0V154.0" stroke="#8250df"/>
+<path d="M214.0,70.0H272.0" stroke="#8250df"/>
+<path d="M214.0,154.0H272.0" stroke="#8250df"/>
+<circle cx="214.0" cy="99.4" r="3.2" fill="#8250df" stroke="none"/>
+<path d="M184.0,53.4H228.0" stroke="#1f6feb"/>
+<path d="M228.0,46.0V53.4" stroke="#1f6feb"/>
+<path d="M228.0,46.0H272.0" stroke="#1f6feb"/>
+<path d="M184.0,145.4H242.0" stroke="#d1242f"/>
+<path d="M242.0,130.0V145.4" stroke="#d1242f"/>
+<path d="M242.0,130.0H272.0" stroke="#d1242f"/>
+<path d="M184.0,192.6H272.0" stroke="#1a7f37"/>
+<path d="M320.0,58.0H350.0" stroke="#bf8700"/>
+<path d="M350.0,58.0V88.8" stroke="#bf8700"/>
+<path d="M350.0,88.8H394.0" stroke="#bf8700"/>
+<path d="M320.0,142.0H364.0" stroke="#0a7d8c"/>
+<path d="M364.0,112.8V142.0" stroke="#0a7d8c"/>
+<path d="M364.0,112.8H394.0" stroke="#0a7d8c"/>
+<path d="M320.0,192.6H394.0" stroke="#1a7f37"/>
+<path d="M442.0,192.6H502.0" stroke="#1a7f37"/>
+<path d="M442.0,100.8H502.0" stroke="#cf222e"/>
+<path d="M136.0,145.4H184.0" stroke="#d1242f"/>
+<path d="M136.0,53.4H184.0" stroke="#1f6feb"/>
+<path d="M272.0,192.6H320.0" stroke="#1a7f37"/>
+<path d="M394.0,192.6H442.0" stroke="#1a7f37"/>
+</g>
+<rect x="30.0" y="58.4" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="74.9" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x1</text>
+<rect x="30.0" y="147.9" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="164.4" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x0</text>
+<path d="M136.0,164.6H147.0A28.0,28.0 0 0 1 147.0,220.6H136.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="179.0" cy="192.6" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M136.0,71.4H147.0A28.0,28.0 0 0 1 147.0,127.4H136.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="179.0" cy="99.4" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M272.0,30.0H283.0A28.0,28.0 0 0 1 283.0,86.0H272.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="315.0" cy="58.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M272.0,114.0H283.0A28.0,28.0 0 0 1 283.0,170.0H272.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="315.0" cy="142.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M394.0,72.8H405.0A28.0,28.0 0 0 1 405.0,128.8H394.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="437.0" cy="100.8" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="502.0" y="88.8" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="518.0" y="105.3" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s1</text>
+<rect x="502.0" y="180.6" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="518.0" y="197.1" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s0</text>
+</svg>

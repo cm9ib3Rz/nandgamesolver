@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1509" height="521" viewBox="0 0 1509 521" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M70.0,346.6H100.0" stroke="#0a7d8c"/>
+<path d="M100.0,289.6V427.6" stroke="#0a7d8c"/>
+<path d="M100.0,427.6H186.0" stroke="#0a7d8c"/>
+<path d="M100.0,289.6H186.0" stroke="#0a7d8c"/>
+<circle cx="100.0" cy="346.6" r="3.2" fill="#0a7d8c" stroke="none"/>
+<path d="M70.0,294.6H114.0" stroke="#bf8700"/>
+<path d="M114.0,265.6V379.6" stroke="#bf8700"/>
+<path d="M114.0,379.6H186.0" stroke="#bf8700"/>
+<path d="M114.0,265.6H186.0" stroke="#bf8700"/>
+<circle cx="114.0" cy="294.6" r="3.2" fill="#bf8700" stroke="none"/>
+<path d="M70.0,171.0H128.0" stroke="#1a7f37"/>
+<path d="M128.0,166.6V171.0" stroke="#1a7f37"/>
+<path d="M128.0,166.6H186.0" stroke="#1a7f37"/>
+<path d="M70.0,223.0H142.0" stroke="#8250df"/>
+<path d="M142.0,201.6V223.0" stroke="#8250df"/>
+<path d="M142.0,201.6H221.0" stroke="#8250df"/>
+<path d="M70.0,403.6H156.0" stroke="#cf222e"/>
+<path d="M156.0,313.6V403.6" stroke="#cf222e"/>
+<path d="M156.0,403.6H186.0" stroke="#cf222e"/>
+<path d="M156.0,313.6H186.0" stroke="#cf222e"/>
+<path d="M70.0,119.0H186.0" stroke="#d1242f"/>
+<path d="M70.0,42.0H186.0" stroke="#1f6feb"/>
+<path d="M263.0,201.6H328.0" stroke="#116329"/>
+<path d="M328.0,201.6V230.3" stroke="#116329"/>
+<path d="M328.0,230.3H414.0" stroke="#116329"/>
+<path d="M298.0,166.6H342.0" stroke="#1a7f37"/>
+<path d="M342.0,144.4V291.3" stroke="#1a7f37"/>
+<path d="M342.0,144.4H415.8" stroke="#1a7f37"/>
+<path d="M342.0,291.3H414.0" stroke="#1a7f37"/>
+<circle cx="342.0" cy="166.6" r="3.2" fill="#1a7f37" stroke="none"/>
+<path d="M298.0,119.0H356.0" stroke="#d1242f"/>
+<path d="M356.0,119.0V181.4" stroke="#d1242f"/>
+<path d="M356.0,181.4H414.0" stroke="#d1242f"/>
+<path d="M298.0,289.6H370.0" stroke="#953800"/>
+<path d="M370.0,120.4V350.6" stroke="#953800"/>
+<path d="M370.0,120.4H415.8" stroke="#953800"/>
+<path d="M370.0,350.6H414.0" stroke="#953800"/>
+<circle cx="370.0" cy="289.6" r="3.2" fill="#953800" stroke="none"/>
+<path d="M298.0,403.6H384.0" stroke="#6639ba"/>
+<path d="M384.0,254.3V403.6" stroke="#6639ba"/>
+<path d="M384.0,254.3H414.0" stroke="#6639ba"/>
+<path d="M298.0,42.0H414.0" stroke="#1f6feb"/>
+<path d="M493.5,350.6H523.5" stroke="#953800"/>
+<path d="M523.5,283.6V471.6" stroke="#953800"/>
+<path d="M523.5,357.6H625.2" stroke="#953800"/>
+<path d="M523.5,471.6H623.5" stroke="#953800"/>
+<path d="M523.5,283.6H623.5" stroke="#953800"/>
+<circle cx="523.5" cy="350.6" r="3.2" fill="#953800" stroke="none"/>
+<circle cx="523.5" cy="357.6" r="3.2" fill="#953800" stroke="none"/>
+<path d="M493.5,291.3H537.5" stroke="#1a7f37"/>
+<path d="M537.5,291.3V320.6" stroke="#1a7f37"/>
+<path d="M537.5,320.6H623.5" stroke="#1a7f37"/>
+<path d="M493.5,242.3H551.5" stroke="#0550ae"/>
+<path d="M551.5,138.6V447.6" stroke="#0550ae"/>
+<path d="M551.5,381.6H625.2" stroke="#0550ae"/>
+<path d="M551.5,447.6H623.5" stroke="#0550ae"/>
+<path d="M551.5,195.6H642.2" stroke="#0550ae"/>
+<path d="M551.5,259.6H623.5" stroke="#0550ae"/>
+<path d="M551.5,138.6H623.5" stroke="#0550ae"/>
+<circle cx="551.5" cy="195.6" r="3.2" fill="#0550ae" stroke="none"/>
+<circle cx="551.5" cy="242.3" r="3.2" fill="#0550ae" stroke="none"/>
+<circle cx="551.5" cy="259.6" r="3.2" fill="#0550ae" stroke="none"/>
+<circle cx="551.5" cy="381.6" r="3.2" fill="#0550ae" stroke="none"/>
+<path d="M493.5,42.0H565.5" stroke="#1f6feb"/>
+<path d="M565.5,40.6V42.0" stroke="#1f6feb"/>
+<path d="M565.5,40.6H623.5" stroke="#1f6feb"/>
+<path d="M491.8,132.4H579.5" stroke="#cf222e"/>
+<path d="M579.5,77.6V132.4" stroke="#cf222e"/>
+<path d="M579.5,77.6H623.5" stroke="#cf222e"/>
+<path d="M493.5,181.4H593.5" stroke="#d1242f"/>
+<path d="M593.5,101.6V181.4" stroke="#d1242f"/>
+<path d="M593.5,101.6H623.5" stroke="#d1242f"/>
+<path d="M593.5,160.6H623.5" stroke="#d1242f"/>
+<circle cx="593.5" cy="160.6" r="3.2" fill="#d1242f" stroke="none"/>
+<path d="M703.0,271.6H733.0" stroke="#8250df"/>
+<path d="M733.0,271.6V278.0" stroke="#8250df"/>
+<path d="M733.0,278.0H847.0" stroke="#8250df"/>
+<path d="M684.2,195.6H747.0" stroke="#1a7f37"/>
+<path d="M747.0,195.6V254.0" stroke="#1a7f37"/>
+<path d="M747.0,254.0H847.0" stroke="#1a7f37"/>
+<path d="M703.0,160.6H761.0" stroke="#d1242f"/>
+<path d="M761.0,130.7V193.0" stroke="#d1242f"/>
+<path d="M761.0,130.7H863.2" stroke="#d1242f"/>
+<path d="M761.0,193.0H847.0" stroke="#d1242f"/>
+<circle cx="761.0" cy="160.6" r="3.2" fill="#d1242f" stroke="none"/>
+<path d="M703.0,138.6H775.0" stroke="#0550ae"/>
+<path d="M775.0,138.6V167.7" stroke="#0550ae"/>
+<path d="M775.0,167.7H847.0" stroke="#0550ae"/>
+<path d="M703.0,89.6H789.0" stroke="#6639ba"/>
+<path d="M789.0,89.6V106.7" stroke="#6639ba"/>
+<path d="M789.0,106.7H863.2" stroke="#6639ba"/>
+<path d="M703.0,320.6H803.0" stroke="#1a7f37"/>
+<path d="M803.0,230.0V345.6" stroke="#1a7f37"/>
+<path d="M803.0,345.6H847.0" stroke="#1a7f37"/>
+<path d="M803.0,230.0H847.0" stroke="#1a7f37"/>
+<circle cx="803.0" cy="320.6" r="3.2" fill="#1a7f37" stroke="none"/>
+<path d="M703.0,459.6H817.0" stroke="#1f6feb"/>
+<path d="M817.0,393.6V459.6" stroke="#1f6feb"/>
+<path d="M817.0,393.6H847.0" stroke="#1f6feb"/>
+<path d="M701.2,369.6H847.0" stroke="#a40e26"/>
+<path d="M703.0,40.6H847.0" stroke="#1f6feb"/>
+<path d="M959.0,254.0H989.0" stroke="#bf8700"/>
+<path d="M989.0,254.0V255.8" stroke="#bf8700"/>
+<path d="M989.0,255.8H1075.0" stroke="#bf8700"/>
+<path d="M959.0,193.0H1003.0" stroke="#d1242f"/>
+<path d="M1003.0,193.0V231.8" stroke="#d1242f"/>
+<path d="M1003.0,231.8H1075.0" stroke="#d1242f"/>
+<path d="M942.8,118.7H1017.0" stroke="#953800"/>
+<path d="M1017.0,118.7V141.8" stroke="#953800"/>
+<path d="M1017.0,141.8H1091.2" stroke="#953800"/>
+<path d="M959.0,167.7H1031.0" stroke="#0550ae"/>
+<path d="M1031.0,165.8V167.7" stroke="#0550ae"/>
+<path d="M1031.0,165.8H1091.2" stroke="#0550ae"/>
+<path d="M959.0,369.6H1045.0" stroke="#d1242f"/>
+<path d="M1045.0,279.8V369.6" stroke="#d1242f"/>
+<path d="M1045.0,279.8H1075.0" stroke="#d1242f"/>
+<path d="M959.0,40.6H1075.0" stroke="#1f6feb"/>
+<path d="M1170.8,153.8H1217.0" stroke="#116329"/>
+<path d="M1217.0,153.8V171.9" stroke="#116329"/>
+<path d="M1217.0,171.9H1275.0" stroke="#116329"/>
+<path d="M1187.0,40.6H1231.0" stroke="#1f6feb"/>
+<path d="M1231.0,40.6V147.9" stroke="#1f6feb"/>
+<path d="M1231.0,147.9H1275.0" stroke="#1f6feb"/>
+<path d="M1187.0,255.8H1245.0" stroke="#0a7d8c"/>
+<path d="M1245.0,195.9V255.8" stroke="#0a7d8c"/>
+<path d="M1245.0,195.9H1275.0" stroke="#0a7d8c"/>
+<path d="M1387.0,171.9H1447.0" stroke="#0550ae"/>
+<path d="M414.0,350.6H493.5" stroke="#953800"/>
+<path d="M623.5,138.6H703.0" stroke="#0550ae"/>
+<path d="M847.0,167.7H959.0" stroke="#0550ae"/>
+<path d="M186.0,166.6H298.0" stroke="#1a7f37"/>
+<path d="M414.0,291.3H493.5" stroke="#1a7f37"/>
+<path d="M623.5,320.6H703.0" stroke="#1a7f37"/>
+<path d="M186.0,119.0H298.0" stroke="#d1242f"/>
+<path d="M414.0,181.4H493.5" stroke="#d1242f"/>
+<path d="M623.5,160.6H703.0" stroke="#d1242f"/>
+<path d="M847.0,193.0H959.0" stroke="#d1242f"/>
+<path d="M186.0,42.0H298.0" stroke="#1f6feb"/>
+<path d="M414.0,42.0H493.5" stroke="#1f6feb"/>
+<path d="M623.5,40.6H703.0" stroke="#1f6feb"/>
+<path d="M847.0,40.6H959.0" stroke="#1f6feb"/>
+<path d="M1075.0,40.6H1187.0" stroke="#1f6feb"/>
+</g>
+<rect x="46.0" y="30.0" width="24.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="58.0" y="46.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">u</text>
+<rect x="30.0" y="107.0" width="40.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="50.0" y="123.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">op1</text>
+<rect x="30.0" y="159.0" width="40.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="50.0" y="175.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">op0</text>
+<rect x="38.0" y="211.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="54.0" y="227.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">zx</text>
+<rect x="38.0" y="282.6" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="54.0" y="299.1" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">sw</text>
+<rect x="38.0" y="334.6" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="54.0" y="351.1" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x0</text>
+<rect x="38.0" y="391.6" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="54.0" y="408.1" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">y0</text>
+<rect x="186.0" y="360.6" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="242.0" y="408.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="191.0" y="383.6" font-size="10.5" fill="#59636e">s</text>
+<text x="191.0" y="407.6" font-size="10.5" fill="#59636e">d1</text>
+<text x="191.0" y="431.6" font-size="10.5" fill="#59636e">d0</text>
+<rect x="186.0" y="246.6" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="242.0" y="294.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="191.0" y="269.6" font-size="10.5" fill="#59636e">s</text>
+<text x="191.0" y="293.6" font-size="10.5" fill="#59636e">d1</text>
+<text x="191.0" y="317.6" font-size="10.5" fill="#59636e">d0</text>
+<path d="M221.0,184.6L254.0,201.6L221.0,218.6Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="258.0" cy="201.6" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="414.0" y="211.3" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="453.8" y="247.3" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">and</text>
+<text x="419.0" y="234.3" font-size="10.5" fill="#59636e">a</text>
+<text x="419.0" y="258.3" font-size="10.5" fill="#59636e">b</text>
+<rect x="625.2" y="338.6" width="76.0" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="663.2" y="374.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">or</text>
+<text x="630.2" y="361.6" font-size="10.5" fill="#59636e">a</text>
+<text x="630.2" y="385.6" font-size="10.5" fill="#59636e">b</text>
+<rect x="623.5" y="428.6" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="663.2" y="464.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">and</text>
+<text x="628.5" y="451.6" font-size="10.5" fill="#59636e">a</text>
+<text x="628.5" y="475.6" font-size="10.5" fill="#59636e">b</text>
+<rect x="847.0" y="326.6" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="903.0" y="374.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="852.0" y="349.6" font-size="10.5" fill="#59636e">s</text>
+<text x="852.0" y="373.6" font-size="10.5" fill="#59636e">d1</text>
+<text x="852.0" y="397.6" font-size="10.5" fill="#59636e">d0</text>
+<path d="M642.2,178.6L675.2,195.6L642.2,212.6Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="679.2" cy="195.6" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="623.5" y="240.6" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="663.2" y="276.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">xor</text>
+<text x="628.5" y="263.6" font-size="10.5" fill="#59636e">a</text>
+<text x="628.5" y="287.6" font-size="10.5" fill="#59636e">b</text>
+<rect x="847.0" y="211.0" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="903.0" y="259.0" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="852.0" y="234.0" font-size="10.5" fill="#59636e">s</text>
+<text x="852.0" y="258.0" font-size="10.5" fill="#59636e">d1</text>
+<text x="852.0" y="282.0" font-size="10.5" fill="#59636e">d0</text>
+<rect x="1075.0" y="212.8" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="1131.0" y="260.8" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="1080.0" y="235.8" font-size="10.5" fill="#59636e">s</text>
+<text x="1080.0" y="259.8" font-size="10.5" fill="#59636e">d1</text>
+<text x="1080.0" y="283.8" font-size="10.5" fill="#59636e">d0</text>
+<rect x="415.8" y="101.4" width="76.0" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="453.8" y="137.4" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">or</text>
+<text x="420.8" y="124.4" font-size="10.5" fill="#59636e">a</text>
+<text x="420.8" y="148.4" font-size="10.5" fill="#59636e">b</text>
+<rect x="623.5" y="58.6" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="663.2" y="94.6" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">xor</text>
+<text x="628.5" y="81.6" font-size="10.5" fill="#59636e">a</text>
+<text x="628.5" y="105.6" font-size="10.5" fill="#59636e">b</text>
+<rect x="863.2" y="87.7" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="903.0" y="123.7" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">xor</text>
+<text x="868.2" y="110.7" font-size="10.5" fill="#59636e">a</text>
+<text x="868.2" y="134.7" font-size="10.5" fill="#59636e">b</text>
+<rect x="1091.2" y="122.8" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="1131.0" y="158.8" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">xor</text>
+<text x="1096.2" y="145.8" font-size="10.5" fill="#59636e">a</text>
+<text x="1096.2" y="169.8" font-size="10.5" fill="#59636e">b</text>
+<rect x="1275.0" y="128.9" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="1331.0" y="176.9" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="1280.0" y="151.9" font-size="10.5" fill="#59636e">s</text>
+<text x="1280.0" y="175.9" font-size="10.5" fill="#59636e">d1</text>
+<text x="1280.0" y="199.9" font-size="10.5" fill="#59636e">d0</text>
+<rect x="1447.0" y="159.9" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="1463.0" y="176.4" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">r0</text>
+</svg>

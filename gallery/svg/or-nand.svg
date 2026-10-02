@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428" height="200" viewBox="0 0 428 200" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M54.0,130.0H84.0" stroke="#d1242f"/>
+<path d="M84.0,130.0V154.0" stroke="#d1242f"/>
+<path d="M84.0,130.0H128.0" stroke="#d1242f"/>
+<path d="M84.0,154.0H128.0" stroke="#d1242f"/>
+<path d="M54.0,46.0H98.0" stroke="#1f6feb"/>
+<path d="M98.0,46.0V70.0" stroke="#1f6feb"/>
+<path d="M98.0,46.0H128.0" stroke="#1f6feb"/>
+<path d="M98.0,70.0H128.0" stroke="#1f6feb"/>
+<path d="M176.0,58.0H206.0" stroke="#1a7f37"/>
+<path d="M206.0,58.0V88.0" stroke="#1a7f37"/>
+<path d="M206.0,88.0H250.0" stroke="#1a7f37"/>
+<path d="M176.0,142.0H220.0" stroke="#8250df"/>
+<path d="M220.0,112.0V142.0" stroke="#8250df"/>
+<path d="M220.0,112.0H250.0" stroke="#8250df"/>
+<path d="M298.0,100.0H358.0" stroke="#bf8700"/>
+</g>
+<rect x="30.0" y="34.0" width="24.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="42.0" y="50.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">a</text>
+<rect x="30.0" y="118.0" width="24.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="42.0" y="134.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b</text>
+<path d="M128.0,30.0H139.0A28.0,28.0 0 0 1 139.0,86.0H128.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="171.0" cy="58.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M128.0,114.0H139.0A28.0,28.0 0 0 1 139.0,170.0H128.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="171.0" cy="142.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M250.0,72.0H261.0A28.0,28.0 0 0 1 261.0,128.0H250.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="293.0" cy="100.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="358.0" y="88.0" width="40.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="378.0" y="104.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">out</text>
+</svg>

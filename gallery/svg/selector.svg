@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="195" viewBox="0 0 558 195" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M62.0,46.0H92.0" stroke="#1f6feb"/>
+<path d="M92.0,46.0V148.2" stroke="#1f6feb"/>
+<path d="M92.0,148.2H153.0" stroke="#1f6feb"/>
+<path d="M92.0,46.0H150.0" stroke="#1f6feb"/>
+<path d="M62.0,98.0H106.0" stroke="#d1242f"/>
+<path d="M106.0,70.0V98.0" stroke="#d1242f"/>
+<path d="M106.0,70.0H150.0" stroke="#d1242f"/>
+<path d="M62.0,150.0H120.0" stroke="#1a7f37"/>
+<path d="M120.0,113.2V150.0" stroke="#1a7f37"/>
+<path d="M120.0,113.2H150.0" stroke="#1a7f37"/>
+<path d="M198.0,113.2H228.0" stroke="#1a7f37"/>
+<path d="M228.0,113.2V124.2" stroke="#1a7f37"/>
+<path d="M228.0,124.2H258.0" stroke="#1a7f37"/>
+<path d="M195.0,148.2H258.0" stroke="#8250df"/>
+<path d="M198.0,58.0H258.0" stroke="#bf8700"/>
+<path d="M306.0,58.0H336.0" stroke="#bf8700"/>
+<path d="M336.0,58.0V109.6" stroke="#bf8700"/>
+<path d="M336.0,109.6H380.0" stroke="#bf8700"/>
+<path d="M306.0,136.2H350.0" stroke="#0a7d8c"/>
+<path d="M350.0,133.6V136.2" stroke="#0a7d8c"/>
+<path d="M350.0,133.6H380.0" stroke="#0a7d8c"/>
+<path d="M428.0,121.6H488.0" stroke="#cf222e"/>
+<path d="M150.0,113.2H198.0" stroke="#1a7f37"/>
+<path d="M258.0,58.0H306.0" stroke="#bf8700"/>
+</g>
+<rect x="38.0" y="34.0" width="24.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="50.0" y="50.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s</text>
+<rect x="30.0" y="86.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="102.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">d1</text>
+<rect x="30.0" y="138.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="154.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">d0</text>
+<path d="M153.0,131.2L186.0,148.2L153.0,165.2Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="190.0" cy="148.2" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M150.0,30.0H161.0A28.0,28.0 0 0 1 161.0,86.0H150.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="193.0" cy="58.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M258.0,108.2H269.0A28.0,28.0 0 0 1 269.0,164.2H258.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="301.0" cy="136.2" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<path d="M380.0,93.6H391.0A28.0,28.0 0 0 1 391.0,149.6H380.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="423.0" cy="121.6" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="488.0" y="109.6" width="40.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="508.0" y="126.1" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">out</text>
+</svg>

@@ -6,9 +6,8 @@ __pycache__/
 .pytest_cache/
 .venv/
 
-# Solver cache and generated diagrams (rebuild with build-library / render-all)
+# Solver cache (rebuild with build-library)
 /.nandcache/
-/diagrams/
 
 # PyCharm: keep only its own ignore file
 /.idea/*

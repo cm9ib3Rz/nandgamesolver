@@ -4,7 +4,6 @@ from __future__ import annotations
 import argparse
 import sys
 import time
-from html import escape
 from pathlib import Path
 
 from . import levels
@@ -12,6 +11,7 @@ from .cache import DEFAULT_DIR, Cache
 from .components import Builder, Library
 from .netlist import Netlist
 from .diagram import render_svg
+from .gallery import Entry, build_page
 from .rewrite import best_rewrite, rewrite
 from .spec import Spec
 
@@ -192,8 +192,9 @@ def cmd_build(args) -> int:
 def cmd_render_all(args) -> int:
     lib = _library(args)
     out_dir = Path(args.out)
-    out_dir.mkdir(parents=True, exist_ok=True)
-    sections = []
+    svg_dir = out_dir / "svg"
+    svg_dir.mkdir(parents=True, exist_ok=True)
+    entries = []
     for lv in levels.LEVELS:
         spec = lv.spec()
         reference = None
@@ -208,48 +209,19 @@ def cmd_render_all(args) -> int:
         game = lv.game_nands if not lv.default_width else None
         rw = best_rewrite(res.netlists, lib, levels.components_before(lv))
         raw = rewrite(rw.netlist, lib, [])
-        subtitle = _subtitle(res, game)
         files = []
-        for suffix, view, heading in (("", rw, "Using earlier components"), ("-nand", raw, "Plain NAND gates")):
+        for suffix, view, caption in (("", rw, "Using earlier components"), ("-nand", raw, "Plain NAND gates")):
             if suffix and rw.counts().keys() <= {"nand"}:
                 continue  # component view is already all NANDs
             name = f"{lv.slug}{suffix}.svg"
-            (out_dir / name).write_text(render_svg(view, lib),
-                                        encoding="utf-8")
-            files.append((name, heading))
-        sections.append((lv, subtitle, files))
-        print(f"{lv.slug:22} {subtitle.replace(' · ', ', ')}", flush=True)
-
-    body = []
-    for lv, subtitle, files in sections:
-        figs = "".join(f'<figure><figcaption>{escape(h)}</figcaption><img src="{escape(f)}" alt="{escape(lv.title)} '
-                       f'circuit"></figure>' for f, h in files)
-        note = f'<p class="note">{escape(lv.note)}</p>' if lv.note else ""
+            (svg_dir / name).write_text(render_svg(view, lib), encoding="utf-8")
+            files.append((caption, name))
         heading = lv.title + (f" ({lv.default_width}-bit)" if lv.default_width else "")
-        body.append(f'<section id="{lv.slug}"><h2>{escape(heading)} <span>{escape(lv.group)}</span></h2>'
-                    f'<p class="sub">{escape(subtitle)}</p>{note}<div class="figs">{figs}</div></section>')
-    toc = " · ".join(f'<a href="#{lv.slug}">{escape(lv.title)}</a>' for lv, _, _ in sections)
-    (out_dir / "index.html").write_text(f"""<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>NandGame Solutions</title>
-<style>
-body {{ font-family: "Segoe UI", Helvetica, Arial, sans-serif; margin: 0 auto; max-width: 1400px; padding: 24px 16px;
-       color: #1f2328; background: #ffffff; }}
-h1 {{ margin: 0 0 8px; }} nav {{ line-height: 1.8; margin-bottom: 24px; }}
-a {{ color: #0969da; text-decoration: none; }} a:hover {{ text-decoration: underline; }}
-section {{ border-top: 1px solid #d1d9e0; padding: 18px 0 28px; }}
-h2 {{ margin: 0; font-size: 22px; }} h2 span {{ font-size: 13px; font-weight: 400; color: #59636e; margin-left: 8px; }}
-.sub {{ margin: 4px 0 0; color: #59636e; }} .note {{ margin: 4px 0 0; font-size: 13px; color: #9a6700; }}
-.figs {{ display: flex; flex-wrap: wrap; gap: 20px; margin-top: 14px; align-items: flex-start; }}
-figure {{ margin: 0; border: 1px solid #d1d9e0; border-radius: 8px; padding: 8px; overflow-x: auto; max-width: 100%; }}
-figcaption {{ font-size: 12px; color: #59636e; margin: 0 0 4px 4px; text-transform: uppercase; letter-spacing: .04em; }}
-img {{ display: block; max-width: none; }}
-</style></head><body>
-<h1>NandGame minimum-NAND solutions</h1>
-<nav>{toc}</nav>
-{''.join(body)}
-</body></html>
-""", encoding="utf-8")
+        entries.append(Entry(lv.slug, heading, lv.group, res.size, res.proven, res.lower_bound,
+                             game, lv.note, files))
+        print(f"{lv.slug:22} {_subtitle(res, game).replace(' · ', ', ')}", flush=True)
+
+    (out_dir / "index.html").write_text(build_page(entries), encoding="utf-8")
     print(f"\nWrote {out_dir / 'index.html'}")
     return 0
 
@@ -296,7 +268,7 @@ def main(argv: list[str] | None = None) -> int:
     sp.set_defaults(func=cmd_build)
 
     sp = sub.add_parser("render-all", help="draw every level's solution into an HTML gallery")
-    sp.add_argument("--out", default="diagrams", help="output directory (default: diagrams)")
+    sp.add_argument("--out", default="gallery", help="output directory (default: gallery)")
     add_time_opts(sp)
     sp.add_argument("--variants", type=int, default=50)
     sp.set_defaults(func=cmd_render_all)

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="301" viewBox="0 0 510 301" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M70.0,155.1H100.0" stroke="#1f6feb"/>
+<path d="M100.0,155.1V211.4" stroke="#1f6feb"/>
+<path d="M100.0,211.4H158.0" stroke="#1f6feb"/>
+<path d="M70.0,207.1H114.0" stroke="#d1242f"/>
+<path d="M114.0,174.4V207.1" stroke="#d1242f"/>
+<path d="M114.0,174.4H158.0" stroke="#d1242f"/>
+<path d="M70.0,259.1H128.0" stroke="#1a7f37"/>
+<path d="M128.0,235.4V259.1" stroke="#1a7f37"/>
+<path d="M128.0,235.4H158.0" stroke="#1a7f37"/>
+<path d="M234.0,174.4H264.0" stroke="#d1242f"/>
+<path d="M264.0,174.4V182.7" stroke="#d1242f"/>
+<path d="M264.0,182.7H308.0" stroke="#d1242f"/>
+<path d="M234.0,223.4H278.0" stroke="#8250df"/>
+<path d="M278.0,206.7V223.4" stroke="#8250df"/>
+<path d="M278.0,206.7H308.0" stroke="#8250df"/>
+<path d="M387.5,194.7H447.5" stroke="#bf8700"/>
+<path d="M158.0,174.4H234.0" stroke="#d1242f"/>
+</g>
+<rect x="30.0" y="30.0" width="40.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="50.0" y="46.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">op1</text>
+<rect x="30.0" y="143.1" width="40.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="50.0" y="159.6" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">op0</text>
+<rect x="38.0" y="195.1" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="54.0" y="211.6" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x0</text>
+<rect x="38.0" y="247.1" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="54.0" y="263.6" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">y0</text>
+<rect x="158.0" y="192.4" width="76.0" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="196.0" y="228.4" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">or</text>
+<text x="163.0" y="215.4" font-size="10.5" fill="#59636e">a</text>
+<text x="163.0" y="239.4" font-size="10.5" fill="#59636e">b</text>
+<rect x="308.0" y="163.7" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="347.8" y="199.7" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">xor</text>
+<text x="313.0" y="186.7" font-size="10.5" fill="#59636e">a</text>
+<text x="313.0" y="210.7" font-size="10.5" fill="#59636e">b</text>
+<rect x="447.5" y="182.7" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="463.5" y="199.2" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">r0</text>
+</svg>

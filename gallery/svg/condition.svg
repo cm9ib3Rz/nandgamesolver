@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="292" viewBox="0 0 620 292" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M62.0,146.0H92.0" stroke="#1a7f37"/>
+<path d="M92.0,146.0V174.8" stroke="#1a7f37"/>
+<path d="M92.0,174.8H178.0" stroke="#1a7f37"/>
+<path d="M62.0,94.0H106.0" stroke="#d1242f"/>
+<path d="M106.0,94.0V198.8" stroke="#d1242f"/>
+<path d="M106.0,198.8H178.0" stroke="#d1242f"/>
+<path d="M62.0,42.0H120.0" stroke="#1f6feb"/>
+<path d="M120.0,42.0V113.8" stroke="#1f6feb"/>
+<path d="M120.0,113.8H178.0" stroke="#1f6feb"/>
+<path d="M62.0,198.0H134.0" stroke="#8250df"/>
+<path d="M134.0,91.8V198.0" stroke="#8250df"/>
+<path d="M134.0,91.8H178.0" stroke="#8250df"/>
+<path d="M62.0,250.0H148.0" stroke="#bf8700"/>
+<path d="M148.0,150.8V250.0" stroke="#bf8700"/>
+<path d="M148.0,150.8H178.0" stroke="#bf8700"/>
+<path d="M290.0,113.8H320.0" stroke="#1f6feb"/>
+<path d="M320.0,113.8V122.2" stroke="#1f6feb"/>
+<path d="M320.0,122.2H378.0" stroke="#1f6feb"/>
+<path d="M290.0,91.8H334.0" stroke="#8250df"/>
+<path d="M334.0,91.8V98.2" stroke="#8250df"/>
+<path d="M334.0,98.2H378.0" stroke="#8250df"/>
+<path d="M290.0,174.8H348.0" stroke="#0a7d8c"/>
+<path d="M348.0,146.2V174.8" stroke="#0a7d8c"/>
+<path d="M348.0,146.2H378.0" stroke="#0a7d8c"/>
+<path d="M490.0,122.2H550.0" stroke="#cf222e"/>
+<path d="M178.0,91.8H290.0" stroke="#8250df"/>
+<path d="M178.0,113.8H290.0" stroke="#1f6feb"/>
+</g>
+<rect x="30.0" y="30.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="46.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">lt</text>
+<rect x="30.0" y="82.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="98.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">eq</text>
+<rect x="30.0" y="134.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="150.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">gt</text>
+<rect x="30.0" y="186.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="202.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x1</text>
+<rect x="30.0" y="238.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="254.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x0</text>
+<rect x="178.0" y="131.8" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="234.0" y="179.8" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="183.0" y="154.8" font-size="10.5" fill="#59636e">s</text>
+<text x="183.0" y="178.8" font-size="10.5" fill="#59636e">d1</text>
+<text x="183.0" y="202.8" font-size="10.5" fill="#59636e">d0</text>
+<rect x="378.0" y="79.2" width="112.0" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="434.0" y="127.2" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">select</text>
+<text x="383.0" y="102.2" font-size="10.5" fill="#59636e">s</text>
+<text x="383.0" y="126.2" font-size="10.5" fill="#59636e">d1</text>
+<text x="383.0" y="150.2" font-size="10.5" fill="#59636e">d0</text>
+<rect x="550.0" y="110.2" width="40.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="570.0" y="126.7" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">out</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="617" height="292" viewBox="0 0 617 292" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M62.0,94.0H92.0" stroke="#d1242f"/>
+<path d="M92.0,94.0V204.1" stroke="#d1242f"/>
+<path d="M92.0,204.1H178.0" stroke="#d1242f"/>
+<path d="M62.0,42.0H106.0" stroke="#1f6feb"/>
+<path d="M106.0,42.0V112.3" stroke="#1f6feb"/>
+<path d="M106.0,112.3H178.0" stroke="#1f6feb"/>
+<path d="M62.0,146.0H120.0" stroke="#1a7f37"/>
+<path d="M120.0,90.3V146.0" stroke="#1a7f37"/>
+<path d="M120.0,90.3H178.0" stroke="#1a7f37"/>
+<path d="M62.0,198.0H134.0" stroke="#8250df"/>
+<path d="M134.0,156.1V198.0" stroke="#8250df"/>
+<path d="M134.0,156.1H178.0" stroke="#8250df"/>
+<path d="M62.0,250.0H148.0" stroke="#bf8700"/>
+<path d="M148.0,180.1V250.0" stroke="#bf8700"/>
+<path d="M148.0,180.1H178.0" stroke="#bf8700"/>
+<path d="M277.5,112.3H307.5" stroke="#1f6feb"/>
+<path d="M307.5,112.3V114.3" stroke="#1f6feb"/>
+<path d="M307.5,114.3H351.5" stroke="#1f6feb"/>
+<path d="M277.5,168.1H321.5" stroke="#0a7d8c"/>
+<path d="M321.5,138.3V168.1" stroke="#0a7d8c"/>
+<path d="M321.5,138.3H351.5" stroke="#0a7d8c"/>
+<path d="M277.5,90.3H351.5" stroke="#1a7f37"/>
+<path d="M277.5,192.1H351.5" stroke="#cf222e"/>
+<path d="M451.0,192.1H481.0" stroke="#cf222e"/>
+<path d="M481.0,192.1V196.5" stroke="#cf222e"/>
+<path d="M481.0,196.5H539.0" stroke="#cf222e"/>
+<path d="M451.0,126.3H495.0" stroke="#953800"/>
+<path d="M495.0,126.3V144.5" stroke="#953800"/>
+<path d="M495.0,144.5H539.0" stroke="#953800"/>
+<path d="M451.0,102.3H509.0" stroke="#6639ba"/>
+<path d="M509.0,92.5V102.3" stroke="#6639ba"/>
+<path d="M509.0,92.5H539.0" stroke="#6639ba"/>
+<path d="M178.0,90.3H277.5" stroke="#1a7f37"/>
+<path d="M178.0,112.3H277.5" stroke="#1f6feb"/>
+<path d="M351.5,192.1H451.0" stroke="#cf222e"/>
+</g>
+<rect x="30.0" y="30.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="46.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">a1</text>
+<rect x="30.0" y="82.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="98.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">a0</text>
+<rect x="30.0" y="134.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="150.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b1</text>
+<rect x="30.0" y="186.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="202.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b0</text>
+<rect x="38.0" y="238.0" width="24.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="50.0" y="254.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">c</text>
+<rect x="178.0" y="137.1" width="99.5" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="227.8" y="185.1" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">fulladd</text>
+<text x="183.0" y="160.1" font-size="10.5" fill="#59636e">a</text>
+<text x="183.0" y="184.1" font-size="10.5" fill="#59636e">b</text>
+<text x="183.0" y="208.1" font-size="10.5" fill="#59636e">c</text>
+<text x="272.5" y="172.1" font-size="10.5" text-anchor="end" fill="#59636e">h</text>
+<text x="272.5" y="196.1" font-size="10.5" text-anchor="end" fill="#59636e">l</text>
+<rect x="351.5" y="71.3" width="99.5" height="86.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="401.2" y="119.3" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">fulladd</text>
+<text x="356.5" y="94.3" font-size="10.5" fill="#59636e">a</text>
+<text x="356.5" y="118.3" font-size="10.5" fill="#59636e">b</text>
+<text x="356.5" y="142.3" font-size="10.5" fill="#59636e">c</text>
+<text x="446.0" y="106.3" font-size="10.5" text-anchor="end" fill="#59636e">h</text>
+<text x="446.0" y="130.3" font-size="10.5" text-anchor="end" fill="#59636e">l</text>
+<rect x="539.0" y="80.5" width="48.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="563.0" y="97.0" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">cout</text>
+<rect x="539.0" y="132.5" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="555.0" y="149.0" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s1</text>
+<rect x="539.0" y="184.5" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="555.0" y="201.0" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s0</text>
+</svg>

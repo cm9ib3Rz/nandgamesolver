@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="185" viewBox="0 0 324 185" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M62.0,105.0H92.0" stroke="#d1242f"/>
+<path d="M92.0,73.0V138.5" stroke="#d1242f"/>
+<path d="M92.0,138.5H140.8" stroke="#d1242f"/>
+<path d="M92.0,73.0H122.0" stroke="#d1242f"/>
+<circle cx="92.0" cy="105.0" r="3.2" fill="#d1242f" stroke="none"/>
+<path d="M62.0,49.0H122.0" stroke="#1f6feb"/>
+<path d="M182.8,138.5H261.5" stroke="#1a7f37"/>
+<path d="M201.5,61.0H261.5" stroke="#8250df"/>
+</g>
+<rect x="30.0" y="37.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="53.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x1</text>
+<rect x="30.0" y="93.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="109.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">x0</text>
+<path d="M140.8,121.5L173.8,138.5L140.8,155.5Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="177.8" cy="138.5" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="122.0" y="30.0" width="79.5" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="161.8" y="66.0" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">xor</text>
+<text x="127.0" y="53.0" font-size="10.5" fill="#59636e">a</text>
+<text x="127.0" y="77.0" font-size="10.5" fill="#59636e">b</text>
+<rect x="261.5" y="49.0" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="277.5" y="65.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s1</text>
+<rect x="261.5" y="126.5" width="32.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="277.5" y="143.0" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">s0</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="622" height="240" viewBox="0 0 622 240" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<g fill="none" stroke-width="1.8" stroke-linejoin="round">
+<path d="M62.0,94.0H92.0" stroke="#d1242f"/>
+<path d="M92.0,94.0V153.0" stroke="#d1242f"/>
+<path d="M92.0,153.0H164.0" stroke="#d1242f"/>
+<path d="M62.0,42.0H106.0" stroke="#1f6feb"/>
+<path d="M106.0,42.0V177.0" stroke="#1f6feb"/>
+<path d="M106.0,177.0H164.0" stroke="#1f6feb"/>
+<path d="M62.0,146.0H120.0" stroke="#1a7f37"/>
+<path d="M120.0,87.0V146.0" stroke="#1a7f37"/>
+<path d="M120.0,87.0H164.0" stroke="#1a7f37"/>
+<path d="M62.0,198.0H134.0" stroke="#8250df"/>
+<path d="M134.0,63.0V198.0" stroke="#8250df"/>
+<path d="M134.0,63.0H164.0" stroke="#8250df"/>
+<path d="M240.0,75.0H270.0" stroke="#0a7d8c"/>
+<path d="M270.0,75.0V108.0" stroke="#0a7d8c"/>
+<path d="M270.0,108.0H314.0" stroke="#0a7d8c"/>
+<path d="M240.0,165.0H284.0" stroke="#bf8700"/>
+<path d="M284.0,132.0V165.0" stroke="#bf8700"/>
+<path d="M284.0,132.0H314.0" stroke="#bf8700"/>
+<path d="M390.0,120.0H450.0" stroke="#cf222e"/>
+<path d="M492.0,120.0H552.0" stroke="#6639ba"/>
+</g>
+<rect x="30.0" y="30.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="46.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b3</text>
+<rect x="30.0" y="82.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="98.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b2</text>
+<rect x="30.0" y="134.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="150.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b1</text>
+<rect x="30.0" y="186.0" width="32.0" height="24.0" rx="12" fill="#ddf4ff" stroke="#1f2328" stroke-width="1.4"/>
+<text x="46.0" y="202.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">b0</text>
+<rect x="164.0" y="134.0" width="76.0" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="202.0" y="170.0" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">or</text>
+<text x="169.0" y="157.0" font-size="10.5" fill="#59636e">a</text>
+<text x="169.0" y="181.0" font-size="10.5" fill="#59636e">b</text>
+<rect x="164.0" y="44.0" width="76.0" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="202.0" y="80.0" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">or</text>
+<text x="169.0" y="67.0" font-size="10.5" fill="#59636e">a</text>
+<text x="169.0" y="91.0" font-size="10.5" fill="#59636e">b</text>
+<rect x="314.0" y="89.0" width="76.0" height="62.0" rx="6" fill="#fff8c5" stroke="#1f2328" stroke-width="1.6"/>
+<text x="352.0" y="125.0" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2328">or</text>
+<text x="319.0" y="112.0" font-size="10.5" fill="#59636e">a</text>
+<text x="319.0" y="136.0" font-size="10.5" fill="#59636e">b</text>
+<path d="M450.0,103.0L483.0,120.0L450.0,137.0Z" fill="#f6f8fa" stroke="#1f2328" stroke-width="1.6"/>
+<circle cx="487.0" cy="120.0" r="4" fill="#fff" stroke="#1f2328" stroke-width="1.6"/>
+<rect x="552.0" y="108.0" width="40.0" height="24.0" rx="12" fill="#dafbe1" stroke="#1f2328" stroke-width="1.4"/>
+<text x="572.0" y="124.5" font-size="13" font-weight="600" text-anchor="middle" fill="#1f2328">out</text>
+</svg>
